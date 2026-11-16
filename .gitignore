@@ -1,0 +1,12 @@
+node_modules/
+**/dist/
+.env
+server/.env
+*.log
+*.tsbuildinfo
+
+.vercel
+.env.*
+!.env.example
+*.tsbuildinfo
+!.env.vercel.example
