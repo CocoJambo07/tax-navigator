@@ -1,5 +1,7 @@
 # Техническое задание
 
+[Открыть сайт «Налоговый навигатор»](https://tax-assistant-coursework-coco-jambo.vercel.app/)
+
 [Скачать ТЗ в формате Word](docs/tax-navigator-spec-original-format.docx)
 
 ## 1. Общие сведения
